@@ -52,4 +52,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * In your scripts, all your private classes and members should be documented but without XML documentation tags
 
 # Credits
-Skyboxes: "[Farland Skies - Cloudy Crown]""(https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004)"
+Skyboxes: [Farland Skies - Cloudy Crown](https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004)
